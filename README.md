@@ -1,4 +1,4 @@
-# university-exam-result-management-system
+# university-exam-result-management-system ( for localHost )
 
 A modern web application for Chennai University that empowers students to view their semester exam results securely using Registration Number and Date of Birth.
 
